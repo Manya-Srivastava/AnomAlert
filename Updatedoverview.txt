@@ -78,3 +78,9 @@ Would you like me to package this as a portfolio-ready README + GitHub structure
 * Add deployment (Streamlit Cloud or Docker or Heroku)
 
 
+📥 Sensor Input Parameters:
+Parameter	Description
+🌡️ Temperature (°C)	Measures the heat level of the machine; abnormal rise may indicate overheating.
+📳 Vibration (mm/s)	Measures mechanical vibrations; high values can signal mechanical faults.
+⚙️ Pressure (bar)	Measures internal pressure in systems like boilers or pipes.
+🧪 Gas Concentration (ppm)	Indicates the amount of gas leaked/emitted, important for safety in chemical plants.
